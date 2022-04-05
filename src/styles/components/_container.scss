@@ -1,0 +1,6 @@
+.container {
+    max-width: 60rem;
+    //if the browser is 70 rem wide, we equally distribute the remaining rem on either side
+    margin: 0 auto;
+    padding: 0 $m-size;
+}
